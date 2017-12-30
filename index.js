@@ -13,8 +13,8 @@ else if (distance >2500) {
 }
 
 
-var ternaryCheckCity(city);
-
+function ternaryCheckCity(city)
+{
 if city === 'NYC' {
   return 'Ok, sounds good.';
 }
