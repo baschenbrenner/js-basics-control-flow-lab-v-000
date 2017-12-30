@@ -22,4 +22,10 @@ function switchOnCharmFromTip(tip_description){
   if (tip_description === 'generous') {
     return "Thank you so much."
   }
+  else if (tip_description === 'not as generous') {
+    return "Thank you."
+  }
+  else {
+    return "Bye."
+  }
 }
