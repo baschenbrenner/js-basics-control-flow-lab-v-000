@@ -11,3 +11,14 @@ else if (distance >2500) {
   return 'No can do.';
 }
 }
+
+
+var ternaryCheckCity(city);
+
+if city === 'NYC' {
+  return 'Ok, sounds good.';
+}
+else  {
+  return 'No go.';
+}
+}
