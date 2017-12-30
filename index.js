@@ -17,3 +17,9 @@ function ternaryCheckCity(city)
   return (city === 'NYC' ) ? 'Ok, sounds good.' : 'No go.';
 
 }
+
+function switchOnCharmFromTip(tip_description){
+  if tip_description === 'generous' {
+    return "Thank you so much."
+  }
+}
