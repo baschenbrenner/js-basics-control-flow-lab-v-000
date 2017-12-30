@@ -1,4 +1,4 @@
-var scuberGreetingForFeet;
+var scuberGreetingForFeet();
 // function scuberGreetingForFeet(distance) {
 // if (distance <= 400) {
 // return 'This one is on me!';
@@ -10,7 +10,7 @@ var scuberGreetingForFeet;
 // return 'No can do.';
 // }
 // }
-var ternaryCheckCity;
+var ternaryCheckCity();
 // function ternaryCheckCity(city)
 // {
 // if city === 'NYC' {
